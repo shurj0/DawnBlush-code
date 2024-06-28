@@ -1,0 +1,39 @@
+{
+  "name": "dawnblush-code",
+  "displayName": "DawnBlush Code",
+  "description": "A fusion of dark dawns and blush tones.",
+  "version": "1.0.1",
+  "publisher": "shurj0",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/shurj0/DawnBlush-code.git"
+	},
+	"keywords": [
+		"theme",
+		"dawnblush",
+    "dawn",
+    "blush",
+    "morning",
+		"dark theme",
+		"pastel",
+		"muted",
+    "mud",
+    "shurj0",
+    "shurjo"
+	],
+  "engines": {
+    "vscode": "^1.90.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "DawnBlush",
+        "uiTheme": "vs-dark",
+        "path": "./themes/DawnBlush-color-theme.json"
+      }
+    ]
+  }
+}
