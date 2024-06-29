@@ -1,1 +1,4 @@
+.vscodeignore
+.vscode
+.DS_Store
 *.vsix
