@@ -135,7 +135,7 @@
 		"terminal.selectionBackground": "#eaecf0",
     "terminal.selectionForeground": "#5e656f",
 		"terminalCursor.background": "#a19a91",
-		"terminalCursor.foreground": "#15130f",
+		"terminalCursor.foreground": "#a19a91",
 		"terminal.border": "#a19a916a",
 		"terminal.ansiBlack": "#262A2F",
     "terminal.ansiRed": "#bc776c",
